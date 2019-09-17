@@ -1,6 +1,5 @@
 /* @pjs preload="die.png", "candy.jpg"; */
 
-
 /*Global Variables*/
 int screenVal = 0;
 int player1;
